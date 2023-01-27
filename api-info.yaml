@@ -3,7 +3,8 @@ kind: API
 metadata:
   name: list-contact-rest-api
   namespace: "external-systems"
-  description: List contact REST API
+  description: |
+    List contact REST API
   tags:
     - java
   links:

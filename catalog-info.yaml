@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "catalog-contact"
   description: |
-    "Catalog Contact"
+    Catalog Contact
   links:
     - title: Documentation
       url: https://github.com/fabandalm/spring-boot-rest-api/backstage-docs
