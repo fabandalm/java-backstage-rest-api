@@ -6,7 +6,6 @@ metadata:
   description: List contact REST API
   tags:
     - java
-    - go
   links:
     - url: https://github.com/fabandalm/list-contact-rest-api
       title: GitHub Repo
