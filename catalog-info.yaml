@@ -1,16 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "catalog-contact"
+  name: "catalog-list-contact"
   description: |
-    Catalog Contact
+    Catalog List Contact
   links:
-    - title: Documentation
+    - title: SpringBoot Documentation
       url: https://github.com/fabandalm/spring-boot-rest-api/backstage-docs
-  namespace: "external-systems"
-  annotations:
-    backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: "fabandalm/spring-boot-rest-api"
+    - title: List Contact Documentation
+      url: https://github.com/fabandalm/list-contact-rest-api/backstage-docs
+  namespace: "org"
 spec:
   type: service
   lifecycle: "experimental"
