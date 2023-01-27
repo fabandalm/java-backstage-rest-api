@@ -5,16 +5,16 @@ metadata:
   description: |
     Catalog List Contact
   links:
-    - title: SpringBoot Documentation
+    - title: Documentation
       url: https://github.com/fabandalm/spring-boot-rest-api/backstage-docs
-    - title: List Contact Documentation
-      url: https://github.com/fabandalm/list-contact-rest-api/backstage-docs
   namespace: "org"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: "fabandalm/list-contact-rest-api"
 spec:
   type: service
   lifecycle: "experimental"
   owner: "unknown"
   providesApis:
-    - "spring-boot-rest-api"
     - "list-contact-rest-api"
 
