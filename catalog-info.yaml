@@ -6,7 +6,7 @@ metadata:
     Catalog List Contact
   links:
     - title: Documentation
-      url: https://github.com/fabandalm/spring-boot-rest-api/backstage-docs
+      url: https://github.com/fabandalm/list-contact-rest-api/backstage-docs
   namespace: "org"
   annotations:
     backstage.io/techdocs-ref: dir:.
